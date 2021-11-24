@@ -1,0 +1,9 @@
+[submodule "CCTV-CAM"]
+	path = CCTV-CAM
+	url = git@github.com:TeamGym/CCTV-CAM.git
+[submodule "CCTV-APP"]
+	path = CCTV-APP
+	url = git@github.com:TeamGym/CCTV-APP.git
+[submodule "CCTV-DMR"]
+	path = CCTV-DMR
+	url = git@github.com:TeamGym/CCTV-DMR.git
